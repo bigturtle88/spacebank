@@ -1,9 +1,6 @@
 # SpaceBank
 
-MVP project. Exchange for the tourism business. The project allows you to buy or sell timeshares.
-The project has a client and admin part. 
-
-The project was stopped was written by about 30%. Located here as an example.
+MVP project. Exchange for the tourism business. The project allows you to buy or sell timeshares. The project has a client and admin part. The project was stopped was written by about 30%. Located here as an example.
 
 [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/)
 
